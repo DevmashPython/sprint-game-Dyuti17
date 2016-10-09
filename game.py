@@ -49,3 +49,8 @@ while(1):
 time_elapsed=time.time()-s_time
 print "Congrats you have finished the game!"
 print "Time taken is "+str(time_elapsed)
+
+
+'''
+1. Mention controls for the game.	
+'''
