@@ -6,7 +6,7 @@ f2=10
 f3=5
 count=0
 count1=0
-print "Press 'd' to move right and 's' to move downwards"
+print "Press key 'd' to move right and key 's' to move downwards"
 print " Press enter key to get started!"
 
 raw_input()
